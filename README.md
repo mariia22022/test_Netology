@@ -1,5 +1,10 @@
-# Hello, world! 
+# NeuroStartUp
 
-i study in Netology
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-54654
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
